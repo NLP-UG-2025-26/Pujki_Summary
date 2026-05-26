@@ -1,6 +1,21 @@
 Chapter 5 introduces the basics of English syntax and explains how sentences are organized into grammatical units called constituents. Syntax is hierarchical and consists of four levels: sentences, clauses, phrases, and words. Constituents can be immediate constituents, such as subjects and predicates, or ultimate constituents, meaning individual words. The chapter explains that linguists use tests like insertion, substitution, and movement to identify constituents. For example, adverbs such as “probably” can only appear between constituents, pronouns can replace constituents, and constituents move together in transformations like passive constructions or questions. These tests show that syntax is systematic rather than random.
 The chapter also contrasts formal and notional definitions of grammar. Notional definitions focus on meaning, such as defining nouns as “persons, places, things, or ideas,” while formal definitions focus on grammatical behavior and structure. Modern linguistics prefers formal definitions because meaning alone can be misleading. The poem “Jabberwocky” by Lewis Carroll is used to show that readers recognize word classes through position and grammatical form rather than meaning. The chapter also discusses structural ambiguity, where meaning depends on how words are grouped, as in the phrase “foreign language specialist.”
 Finally, the chapter describes the relationship between form and function in syntax. Forms include word classes such as nouns, verbs, and adjectives, as well as phrases, clauses, and sentence types. Functions describe the roles constituents play in clauses, including subject, object, complement, and adverbial. Particular attention is given to noun phrases, which are built around a head noun or pronoun and may contain determiners, adjectives, and modifiers. The chapter also explains differences between count and non-count nouns, pronouns, and adjectives, emphasizing that English syntax relies on structured grammatical patterns and hierarchical organization.
+
+Prepositional Phrases
+
+Many prepositions combine idiomatically with nouns, verbs, and adjectives rather than carrying independent meaning, for example "expert in", "cave in to", or "jealous of". A key distinction is made between phrasal verbs (where the preposition can be moved: "take down the wallpaper / take the wallpaper down") and prepositional verbs (where it cannot: "looked at Ethel", never "looked Ethel at").
+
+The section also introduces embedding (placing one phrase inside another) and recursion (the potentially infinite nesting of structures within structures), though in practice excessive embedding becomes awkward and hard to process.
+
+Verb Phrases
+
+Two competing definitions are discussed. Quirk et al. define the verb phrase narrowly as a lexical verb plus optional auxiliaries. Others (Aarts & Haegeman) argue for a broader definition that includes post-verbal noun phrases and adverb phrases.
+
+Key distinctions covered include regular vs. irregular verbs, primary auxiliaries ("be", "have", "do") vs. modal auxiliaries (central ones like "can/will" and phrasal ones like "be going to"), and the special behavior of "do" as a question-former, negator, and emphasizer.
+
+Finally, adverbs are described as a large, heterogeneous class whose positioning in a clause varies by type, with time, manner, disjunct, and conjunctive adverbs each tending to occupy different positions.
+
 ## Main and Subordinate Clauses
 
 English sentences contain one required **main clause** andmay also include one or more **subordinate clauses**. A main clause can stand alone beacuse it contains a **finitive verb**, which is marked for tense. Examples of finite verbs include present and past tense forms such as *walks*, *talked*, and*was thinking*. These verbs help place actions in timeand make the clause complete. Subordinate clause differ from main clauses in two main ways. They either
