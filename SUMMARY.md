@@ -55,6 +55,32 @@ The chapter also explains:
 - adjectives
 Overall, the chapter emphasizes that English syntax relies on **structured grammatical patterns** and **hierarchical organization**.
 
+Chapter 5 introduces the basics of English syntax and explains how sentences are organized into grammatical units called constituents. Syntax is hierarchical and consists of four levels: sentences, clauses, phrases, and words. Constituents can be immediate constituents, such as subjects and predicates, or ultimate constituents, meaning individual words. The chapter explains that linguists use tests like insertion, substitution, and movement to identify constituents. For example, adverbs such as “probably” can only appear between constituents, pronouns can replace constituents, and constituents move together in transformations like passive constructions or questions. These tests show that syntax is systematic rather than random.
+The chapter also contrasts formal and notional definitions of grammar. Notional definitions focus on meaning, such as defining nouns as “persons, places, things, or ideas,” while formal definitions focus on grammatical behavior and structure. Modern linguistics prefers formal definitions because meaning alone can be misleading. The poem “Jabberwocky” by Lewis Carroll is used to show that readers recognize word classes through position and grammatical form rather than meaning. The chapter also discusses structural ambiguity, where meaning depends on how words are grouped, as in the phrase “foreign language specialist.”
+Finally, the chapter describes the relationship between form and function in syntax. Forms include word classes such as nouns, verbs, and adjectives, as well as phrases, clauses, and sentence types. Functions describe the roles constituents play in clauses, including subject, object, complement, and adverbial. Particular attention is given to noun phrases, which are built around a head noun or pronoun and may contain determiners, adjectives, and modifiers. The chapter also explains differences between count and non-count nouns, pronouns, and adjectives, emphasizing that English syntax relies on structured grammatical patterns and hierarchical organization.
+
+## Prepositional Phrases
+
+Many prepositions combine idiomatically with nouns, verbs, and adjectives rather than carrying independent meaning, for example *expert in*, *cave in to*, or *jealous of*. The chapter notes that verb-preposition combinations are so common in English that they are often referred to as phrasal verbs or prepositional verbs. A key distinction is made between the two: in phrasal verbs the preposition can be moved, as in *take down the wallpaper / take the wallpaper down*, whereas in prepositional verbs it cannot, as in *looked at Ethel* (never *looked Ethel at*).
+
+The section also introduces **embedding** (placing one phrase inside another) and **recursion** (the potentially infinite nesting of structures within structures). An example such as *acts of successful mob violence against the authority of the church and nobility* illustrates how multiple prepositional phrases can be embedded within one another, each containing yet another phrase inside it. Though recursion is theoretically endless, in practice excessive embedding becomes stylistically awkward and difficult to interpret.
+
+## Verb Phrases
+
+Two competing definitions of the verb phrase are discussed. Quirk et al. define the verb phrase narrowly as consisting of an obligatory **lexical verb** plus one or more optional **auxiliary verbs**. If auxiliaries are present, modal auxiliaries always come first, followed by primary auxiliaries, and then the lexical verb, as in *can be read*, where *can* is the modal, *be* is the primary auxiliary, and *read* is the lexical verb. Others (Aarts & Haegeman) argue for a broader definition that also includes post-verbal noun phrases and adverb phrases, supported by substitution tests showing that these elements behave as a single unit. For example, in the sentence *I called my mother*, the response "Yes, I did" shows that *did* substitutes for the entire unit *called my mother*, not just the verb.
+
+Key distinctions covered include regular vs. irregular verbs, **primary auxiliaries** (*be*, *have*, *do*) vs. **modal auxiliaries** (central ones like *can/will* and phrasal ones like *be going to*), and the special behavior of *do* as a question-former (*Why did the Vietnamese ultimately fight on?*), negator (*I did not pick her up*), and emphasizer (*I do like to hear you talk*). Unlike primary auxiliaries, modal auxiliaries are typically not marked for number or tense, and the difference between forms such as *can* and *could* is usually one of meaning rather than tense. For instance, *Can you give us the title of the book?* asks whether the addressee is able to do so, while *Could you give us the title of the book?* functions as a polite indirect request.
+
+Additionally, **adverbs** are described as a large and heterogeneous class, often considered a residual category for words that do not fit neatly into other word classes. While many adverbs end in the suffix *-ly*, this is not always the case, and some *-ly* words such as *lovely* are actually adjectives. Different adverb types each tend to occupy different positions within a clause:
+
+- **Time adverbs** such as *now* or *yesterday* tend to occur towards the end of a clause, and when combined with place adverbs, the place adverb always comes first, as in *here yesterday*.
+- **Manner adverbs** such as *skillfully* or *courageously* tend to occur close to the verb or sentence-finally, as in *Loretta waited hopefully*.
+- **Disjunct adverbs** such as *inevitably* or *hopefully* allow the speaker to comment on the content of what is being said, and tend to occur at or near the start of a clause, as in *Hopefully it will improve Neil a bit*.
+- **Conjunctive adverbs** such as *however* or *therefore* establish links between parts of a text and also occur towards the beginning of a clause, as in *However, you can rest assured that the questions on the midterm will not be on the final*.
+
+These positional preferences apply not just to adverb phrases but to other phrases serving an adverbial function as well, such as prepositional phrases like *as a result*, which similarly tends to appear near the start of a clause.
+
+
 ## Main and Subordinate Clauses
 
 English sentences contain one required **main clause** andmay also include one or more **subordinate clauses**. A main clause can stand alone beacuse it contains a **finitive verb**, which is marked for tense. Examples of finite verbs include present and past tense forms such as *walks*, *talked*, and*was thinking*. These verbs help place actions in timeand make the clause complete. Subordinate clause differ from main clauses in two main ways. They either
@@ -134,3 +160,26 @@ This process shows how English relies on auxiliary structures to form interrogat
 
 Questions are particularly common in spoken interaction because conversation is naturally interactive.
 Interrogative forms allow speakers to request information and maintain communication. Their grammatical structure reflects this communicative purpose, especially through inversion and auxiliary use.
+
+Another operator present in yes/no question formation is ‘do’, which carries tense information. Known as ‘**periphrastic do**’, this operator dates back to Early Modern English and also appears in sentences with negation. Its usage is only licensed when there are no auxiliary verbs in the sentence. Wh-questions, or questions with a wh-word requesting specific information, do not include a do-operator when the wh-phrase is in subject position.
+
+## Exclamatory and imperative sentences 
+
+Besides having special syntax for interrogative sentences, English also exhibits a set of characteristic properties pertaining to **exclamatory structures**. Such structures are formed either by starting the sentence with a ‘what’, followed by an indefinite article and a noun phrase, or by starting the sentence with a ‘how’, followed by an adjective. They are often abbreviated and, in writing, end with an exclamation mark. 
+
+The latter is a trait shared with **imperative structures**. Imperatives are further characterized by the fact that they often lack an overt subject (though a second person subject is usually implied or sometimes included overtly for emphasis). For first person subjects, English imperative clauses will typically start with ‘let’s’. 
+
+## Objects, complements and adverbials
+
+A further characteristic of English clausal structure is the fact that objects and complements usually occur after the lexical verb, which determines their number and type. Direct objects require the presence of either a monotransitive or a ditransitive verb, while indirect objects are restricted to the latter. Though not always completely reliable, **promotion to subject position under passivization** may serve as a diagnostic for objects. Furthermore, indirect objects may be selected by prepositions ‘for’ or ‘to’, as in the following:
+
+> She was showing some photographs to me.
+
+In fact, the presence of these prepositions is obligatory when a personal pronoun is the direct object, as seen in the contrast between the following:
+
+> I’m just showing it to him.
+> *I’m just showing him it.
+
+English also exhibits restrictions on complements. The textbook defines **complements** as phrases whose function it is to characterize the subject or the object of a sentence. They are typically preceded by linking verbs like the copular ‘be’ or ‘seem’, though in the case of object complements, their predicators may be only implied. Complement structures form what is known as a small clause. 
+
+The final topic discussed in this chapter is the syntax of **adverbs and adverbials**. The former term is used to refer to a word class, while the latter refers to a sentential function, which may be fulfilled by different kinds of phrases. Adverbials are not typical clausal functions in that a clause may contain multiple adverbials, they may be moved somewhat freely and they are taken to form natural groupings. The aforementioned groupings include linking, stance, reason, space, time and circumstance adverbials. 
