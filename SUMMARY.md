@@ -26,7 +26,7 @@ The chapter contrasts:
 |---|---|
 | focus on grammatical structure | focus on meaning |
 | preferred in modern linguistics | can sometimes be misleading |
-An example is the poem *Jabberwocky* by :contentReference[oaicite:0]{index=0}, which demonstrates that readers recognize word classes through grammatical position rather than meaning.
+An example is the poem *Jabberwocky* by An example is the poem *Jabberwocky* by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll), which demonstrates that readers recognize word classes through grammatical position rather than meaning.
 The chapter also discusses **structural ambiguity**, for example:
 > “foreign language specialist”
 whose meaning depends on how the words are grouped.
@@ -55,15 +55,21 @@ The chapter also explains:
 - adjectives
 Overall, the chapter emphasizes that English syntax relies on **structured grammatical patterns** and **hierarchical organization**.
 
-Chapter 5 introduces the basics of English syntax and explains how sentences are organized into grammatical units called constituents. Syntax is hierarchical and consists of four levels: sentences, clauses, phrases, and words. Constituents can be immediate constituents, such as subjects and predicates, or ultimate constituents, meaning individual words. The chapter explains that linguists use tests like insertion, substitution, and movement to identify constituents. For example, adverbs such as “probably” can only appear between constituents, pronouns can replace constituents, and constituents move together in transformations like passive constructions or questions. These tests show that syntax is systematic rather than random.
-The chapter also contrasts formal and notional definitions of grammar. Notional definitions focus on meaning, such as defining nouns as “persons, places, things, or ideas,” while formal definitions focus on grammatical behavior and structure. Modern linguistics prefers formal definitions because meaning alone can be misleading. The poem “Jabberwocky” by Lewis Carroll is used to show that readers recognize word classes through position and grammatical form rather than meaning. The chapter also discusses structural ambiguity, where meaning depends on how words are grouped, as in the phrase “foreign language specialist.”
-Finally, the chapter describes the relationship between form and function in syntax. Forms include word classes such as nouns, verbs, and adjectives, as well as phrases, clauses, and sentence types. Functions describe the roles constituents play in clauses, including subject, object, complement, and adverbial. Particular attention is given to noun phrases, which are built around a head noun or pronoun and may contain determiners, adjectives, and modifiers. The chapter also explains differences between count and non-count nouns, pronouns, and adjectives, emphasizing that English syntax relies on structured grammatical patterns and hierarchical organization.
-
 ## Prepositional Phrases
 
-Many prepositions combine idiomatically with nouns, verbs, and adjectives rather than carrying independent meaning, for example *expert in*, *cave in to*, or *jealous of*. The chapter notes that verb-preposition combinations are so common in English that they are often referred to as phrasal verbs or prepositional verbs. A key distinction is made between the two: in phrasal verbs the preposition can be moved, as in *take down the wallpaper / take the wallpaper down*, whereas in prepositional verbs it cannot, as in *looked at Ethel* (never *looked Ethel at*).
+Many prepositions combine idiomatically with nouns, verbs, and adjectives rather than carrying independent meaning, for example *expert in*, *cave in to*, or *jealous of*. The chapter notes that verb-preposition combinations are so common in English that they are often referred to as phrasal verbs or prepositional verbs. A key distinction is made between the two:
 
-The section also introduces **embedding** (placing one phrase inside another) and **recursion** (the potentially infinite nesting of structures within structures). An example such as *acts of successful mob violence against the authority of the church and nobility* illustrates how multiple prepositional phrases can be embedded within one another, each containing yet another phrase inside it. Though recursion is theoretically endless, in practice excessive embedding becomes stylistically awkward and difficult to interpret.
+| | Can the preposition move? | Example |
+|---|---|---|
+| **Phrasal verb** | Yes | *take down the wallpaper* / *take the wallpaper down* |
+| **Prepositional verb** | No | *looked at Ethel* (never *looked Ethel at*) |
+
+The section also introduces two structural concepts:
+
+- **Embedding:** placing one phrase inside another
+- **Recursion:** the potentially infinite nesting of structures within structures
+
+An example such as *acts of successful mob violence against the authority of the church and nobility* illustrates how multiple prepositional phrases can be embedded within one another, each containing yet another phrase inside it. Though recursion is theoretically endless, in practice excessive embedding becomes stylistically awkward and difficult to interpret.
 
 ## Verb Phrases
 
