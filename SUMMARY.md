@@ -5,15 +5,17 @@ Chapter 5 introduces the basics of English syntax and explains how sentences are
 - clauses
 - phrases
 - words
+
 Constituents can be:
 - **immediate constituents** – such as subjects and predicates
 - **ultimate constituents** – individual words
 ---
 ## Constituency Tests
-The chapter explains that linguists use several tests to identify constituents:
+The chapter explains that linguists use several tests to identify constituents[^1]:
 1. **Insertion**
 2. **Substitution**
 3. **Movement**
+
 For example:
 - adverbs such as *probably* can only appear between constituents
 - pronouns can replace constituents
@@ -26,11 +28,11 @@ The chapter contrasts:
 |---|---|
 | focus on grammatical structure | focus on meaning |
 | preferred in modern linguistics | can sometimes be misleading |
-An example is the poem *Jabberwocky* by An example is the poem *Jabberwocky* by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll), which demonstrates that readers recognize word classes through grammatical position rather than meaning.
-The chapter also discusses **structural ambiguity**, for example:
-> “foreign language specialist”
-whose meaning depends on how the words are grouped.
----
+
+An example is the poem *Jabberwocky* by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll), which demonstrates that readers recognize word classes through grammatical position rather than meaning. 
+
+The chapter also discusses **structural ambiguity**, for example *foreign language specialist*, whose meaning depends on how the words are grouped. 
+
 ## Form and Function in Syntax
 The final section explains the relationship between **form** and **function** in syntax.
 ### Forms include:
@@ -44,15 +46,18 @@ The final section explains the relationship between **form** and **function** in
 - subject
 - object
 - complement
-- adverbial
+- adverbial  
+
 Particular attention is given to **noun phrases**, which are built around a head noun or pronoun and may contain:
 - determiners
 - adjectives
 - modifiers
+
 The chapter also explains:
 - count and non-count nouns
 - pronouns
 - adjectives
+
 Overall, the chapter emphasizes that English syntax relies on **structured grammatical patterns** and **hierarchical organization**.
 
 ## Prepositional Phrases
@@ -69,7 +74,7 @@ The section also introduces two structural concepts:
 - **Embedding:** placing one phrase inside another
 - **Recursion:** the potentially infinite nesting of structures within structures
 
-An example such as *acts of successful mob violence against the authority of the church and nobility* illustrates how multiple prepositional phrases can be embedded within one another, each containing yet another phrase inside it. Though recursion is theoretically endless, in practice excessive embedding becomes stylistically awkward and difficult to interpret.
+An example such as *acts of successful mob violence against the authority of the church and nobility* illustrates how multiple prepositional phrases can be embedded within one another, each containing yet another phrase inside it. Though recursion is theoretically endless, in practice excessive embedding becomes stylistically awkward and difficult to interpret[^2].
 
 ## Verb Phrases
 
@@ -89,9 +94,10 @@ These positional preferences apply not just to adverb phrases but to other phras
 
 ## Main and Subordinate Clauses
 
-English sentences contain one required **main clause** andmay also include one or more **subordinate clauses**. A main clause can stand alone beacuse it contains a **finitive verb**, which is marked for tense. Examples of finite verbs include present and past tense forms such as *walks*, *talked*, and*was thinking*. These verbs help place actions in timeand make the clause complete. Subordinate clause differ from main clauses in two main ways. They either
+English sentences contain one required **main clause** and may also include one or more **subordinate clauses**. A main clause can stand alone beacuse it contains a **finitive verb**, which is marked for tense. Examples of finite verbs include present and past tense forms such as *walks*, *talked*, and*was thinking*. These verbs help place actions in time and make the clause complete. Subordinate clauses differ from main clauses in two main ways. They either
 1. contain **non-finite verbs**
 2. are introduced by **subordinating conjunctions** such as *because*, *if*, *when*, or *who*
+
 A non-finite verb does not show tense. Instead, it often expresses aspect or ongoing activity. For example, in *was thinking*, the auxiliary *was* marks past tense while *thinking* indicates continuous action.
 
 ## Predicators and Verb Structure
@@ -106,7 +112,7 @@ Because of this, the predicator controls much of a sentence’s grammatical orga
 English allows clauses and phrases to be connected through **coordination** using conjunctions such as *and*, *or*, and *but*.
 These conjunctions usually join similar grammatical structures. For example, two main clauses may be coordinated into a larger sentence.
 The conjunction *and* and *or* may link more than two structures, while *but* normally connects only two.
-In some coordinated structures, parts of a clause may be omitted through **ellipsis**. This omission occurs when the missing information can be understood from surrounding context.
+In some coordinated structures, parts of a clause may be omitted through **ellipsis**. This omission occurs when the missing information can be understood from the surrounding context.
 One example is **gapping**, where a repeated verb or auxiliary is deleted in the second coordinated clause. Ellipsis helps avoid unnecessary repetition while maintaining grammatical meaning.
 
 ## Clause Functions
@@ -118,7 +124,8 @@ The main clause functions in English include:
 - object  
 - complement  
 - adverbial  
-A noun phrase can perform different functions depending on its relationship to the predicator.
+
+A noun phrase can perform different functions depending on its relationship to the predicator.  
 For example, in *The child paints pictures*, *The child* is the **subject** because it agrees with the verb in number, while *pictures* functions as the **object**.
 Agreement is useful in identifying subjects, although it is not always sufficient on its own. When tense removes visible agreement, additional grammatical criteria are necessary.
 
@@ -129,6 +136,7 @@ English contains four major sentence types:
 - interrogative  
 - imperative  
 - exclamatory  
+
 Declarative sentences are most common, especially in writing. Spoken interaction tends to include more interrogatives and imperatives because conversation involves questioning and requesting information.
 
 ## Subjects and Predicators
@@ -148,10 +156,12 @@ In yes/no questions, the **operator** changes position with the subject.
 Examples include:
 - *Abortion should be illegal* → *Should abortion be illegal?*  
 - *Some people are lucky* → *Are some people lucky?*  
+
 Operators include:
 - auxiliary verbs  
 - modal verbs  
 - forms of the verb *be*
+
 This inversion helps distinguish interrogative sentences from declarative ones.
 
 ## Auxiliary Verbs and Dummy Do
@@ -159,6 +169,7 @@ This inversion helps distinguish interrogative sentences from declarative ones.
 When a sentence contains no auxiliary verb and uses a lexical verb instead, English introduces **dummy do** to form questions.
 For example:
 - *She left early* → *Did she leave early?*
+
 In this construction, *did* acts as the operator while the lexical verb returns to its base form.
 This process shows how English relies on auxiliary structures to form interrogative sentences.
 
@@ -167,25 +178,33 @@ This process shows how English relies on auxiliary structures to form interrogat
 Questions are particularly common in spoken interaction because conversation is naturally interactive.
 Interrogative forms allow speakers to request information and maintain communication. Their grammatical structure reflects this communicative purpose, especially through inversion and auxiliary use.
 
-Another operator present in yes/no question formation is ‘do’, which carries tense information. Known as ‘**periphrastic do**’, this operator dates back to Early Modern English and also appears in sentences with negation. Its usage is only licensed when there are no auxiliary verbs in the sentence. Wh-questions, or questions with a wh-word requesting specific information, do not include a do-operator when the wh-phrase is in subject position.
+Another operator present in yes/no question formation is *do*, which carries tense information. Known as ‘**periphrastic do**’, this operator dates back to Early Modern English and also appears in sentences with negation. Its usage is only licensed when there are no auxiliary verbs in the sentence. Wh-questions, or questions with a wh-word requesting specific information, do not include a do-operator when the wh-phrase is in subject position.
 
 ## Exclamatory and imperative sentences 
 
-Besides having special syntax for interrogative sentences, English also exhibits a set of characteristic properties pertaining to **exclamatory structures**. Such structures are formed either by starting the sentence with a ‘what’, followed by an indefinite article and a noun phrase, or by starting the sentence with a ‘how’, followed by an adjective. They are often abbreviated and, in writing, end with an exclamation mark. 
+Besides having a special syntax for interrogative sentences, English also exhibits a set of characteristic properties pertaining to **exclamatory structures**. Such structures are formed either by starting the sentence with a ‘what’, followed by an indefinite article and a noun phrase, or by starting the sentence with a ‘how’, followed by an adjective. They are often abbreviated and, in writing, end with an exclamation mark. 
 
-The latter is a trait shared with **imperative structures**. Imperatives are further characterized by the fact that they often lack an overt subject (though a second person subject is usually implied or sometimes included overtly for emphasis). For first person subjects, English imperative clauses will typically start with ‘let’s’. 
+The latter is a trait shared with **imperative structures**. Imperatives are further characterized by the fact that they often lack an overt subject (though a second person subject is usually implied or sometimes included overtly for emphasis). For first person subjects, English imperative clauses will typically start with *let’s*. 
 
 ## Objects, complements and adverbials
 
-A further characteristic of English clausal structure is the fact that objects and complements usually occur after the lexical verb, which determines their number and type. Direct objects require the presence of either a monotransitive or a ditransitive verb, while indirect objects are restricted to the latter. Though not always completely reliable, **promotion to subject position under passivization** may serve as a diagnostic for objects. Furthermore, indirect objects may be selected by prepositions ‘for’ or ‘to’, as in the following:
+A further characteristic of English clausal structure is the fact that objects and complements usually occur after the lexical verb, which determines their number and type[^3]. Direct objects require the presence of either a monotransitive or a ditransitive verb, while indirect objects are restricted to the latter. Though not always completely reliable, **promotion to subject position under passivization** may serve as a diagnostic for objects. Furthermore, indirect objects may be selected by prepositions ‘for’ or ‘to’, as in the following:
 
 > She was showing some photographs to me.
 
 In fact, the presence of these prepositions is obligatory when a personal pronoun is the direct object, as seen in the contrast between the following:
 
 > I’m just showing it to him.
+
 > *I’m just showing him it.
 
-English also exhibits restrictions on complements. The textbook defines **complements** as phrases whose function it is to characterize the subject or the object of a sentence. They are typically preceded by linking verbs like the copular ‘be’ or ‘seem’, though in the case of object complements, their predicators may be only implied. Complement structures form what is known as a small clause. 
+English also exhibits restrictions on complements. The textbook defines **complements** as phrases whose function it is to characterize the subject or the object of a sentence. They are typically preceded by linking verbs like the copular *be* or *seem*, though in the case of object complements, their predicators may be only implied. Complement structures form what is known as a small clause. 
 
 The final topic discussed in this chapter is the syntax of **adverbs and adverbials**. The former term is used to refer to a word class, while the latter refers to a sentential function, which may be fulfilled by different kinds of phrases. Adverbials are not typical clausal functions in that a clause may contain multiple adverbials, they may be moved somewhat freely and they are taken to form natural groupings. The aforementioned groupings include linking, stance, reason, space, time and circumstance adverbials. 
+
+
+[^1]: Constituency tests can tell us whether a given element is a constituent. However, they cannot tell us that a given element is *not* a constituent. In other words, a failed constituency test cannot rule out constituency. Beware of false negatives!
+
+[^2]: Center embedding of multiple is notoriously difficult for humans to process. The following example illustrates this difficulty: *The cat that the mouse that the horse chased saw slept*.
+
+[^3]: While this simplified description may suffice as an introduction, it is important to keep in mind that objects may, of course, undergo movement across the verb. In that case, they may appear before the verb, as in: ***The book**, Mary read, but **the magazine**, she didn't*.
